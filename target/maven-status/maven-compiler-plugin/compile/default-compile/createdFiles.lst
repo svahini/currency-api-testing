@@ -1,0 +1,5 @@
+com\vahini\constants\EndPoints.class
+com\vahini\model\CurrencySteps.class
+com\vahini\utils\TestUtils.class
+com\vahini\utils\PropertyReader.class
+com\vahini\constants\Path.class
